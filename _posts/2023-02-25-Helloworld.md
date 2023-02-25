@@ -1,5 +1,5 @@
 
 ---
-title: "YOUR-TITLE"
-date: YYYY-MM-DD
+title: "Github Blog"
+date: 2023-02-25
 ---
